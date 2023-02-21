@@ -1,0 +1,3 @@
+config for db redis
+npm install
+npm start dev
