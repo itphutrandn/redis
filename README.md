@@ -14,7 +14,7 @@ Please refer to the link bellow:
 https://redis.io/commands/
 
 
-##Installing on Windows
+## Installing on Windows
 Below are instructions to run Redis locally on Windows.
 
 You do not need to install Redis locally. You can complete the entire course using the Redis instance we already created on Redis Labs.  These instructions are only here incase you want to run a copy on your own machine.
